@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitpatel316&show_icons=true&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=np5499&show_icons=true&theme=dracula" />
 
 
 ## Here's a list of my skills. These are the things I've worked on or working on currently.

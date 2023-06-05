@@ -10,9 +10,6 @@
   </a>
 </div>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=np5499&show_icons=true&theme=dracula" />
-
-
 ## Here's a list of my skills. These are the things I've worked on or working on currently.
 
 ### Web Development
@@ -53,6 +50,7 @@
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></img>
 </div>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=np5499&show_icons=true&theme=dracula" />
 
 <!--
 **np5499/np5499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### Hello fellow Coders 👋 ,
-- 🔭 I have completed BSc in Computer Science from Ryerson University, looking for internship or full-time opportunities.
+- 🔭 I'm a Computer Science student at Ryerson University, looking for internship or full-time opportunities.
 - 🌱 I’m currently learning data science, machine learning and getting ready for competive programming on codeforces and leetcode.
 - 👯 I’m looking to collaborate on open source projects and machine learning projects
 

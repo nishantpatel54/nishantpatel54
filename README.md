@@ -51,8 +51,9 @@
 </div>
 
 ## Github Stats
-<br/>
+
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=np5499)](https://github.com/np5499/github-readme-stats)
+
 <br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=np5499&show_icons=true&theme=dracula" />
 

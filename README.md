@@ -1,4 +1,4 @@
-### Hello fellow Coders 👋 I'm Nishant,
+### Hello there 👋 I'm Nishant,
 - 🔭 I'm a Computer Science student at Ryerson University(open to internship or full-time opportunities).
 - 🌱 I’m currently learning data science, machine learning and getting ready for competive programming on codeforces and leetcode.
 - 👯 I’m looking to collaborate on open source projects and machine learning projects

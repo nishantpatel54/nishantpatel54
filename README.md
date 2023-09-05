@@ -52,13 +52,13 @@
 
 ## Github Stats
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=np5499)](https://github.com/np5499/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nishantpatel54)](https://github.com/nishantpatel54/github-readme-stats)
 
 <br/>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=np5499&show_icons=true&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishantpatel54&show_icons=true&theme=dracula" />
 
 <!--
-**np5499/np5499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**nishantpatel54/nishantpatel54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
